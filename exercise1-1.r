@@ -11,3 +11,12 @@ n*(n+1)/2
 # Below, write code to calculate the sum of the first 100 integers
 n<- 100
 n*(n+1)/2
+
+# Load package and data
+
+library(dslabs)
+data(murders)
+
+# Use the function names to extract the variable names
+head(murders)
+names(murders)
