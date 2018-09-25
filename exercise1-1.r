@@ -29,3 +29,14 @@ sqrt(log2(16))
 
 # Compute log to the base 10 (log10) of the sqrt of 100. Do not use variables.
 log10(sqrt(100))
+
+# To access the population variable from the murders dataset use this code:
+p <- murders$population
+
+# To determine the class of object `p` we use this code:
+class(p)
+
+# Use the accessor to extract state abbreviations and assign it to a
+a <- murders$abb
+# Determine the class of a
+class(a)
