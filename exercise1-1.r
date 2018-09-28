@@ -55,3 +55,7 @@ b <- murders[["abb"]]
 a <- murders[["abb"]]
 # Check if `a` and `b` are identical
 identical(a, b)
+
+#determine the number of regions defined by this dataset and contained in murders$region
+class(murders$region)
+length(levels(murders$region))
