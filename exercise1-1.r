@@ -59,3 +59,11 @@ identical(a, b)
 #determine the number of regions defined by this dataset and contained in murders$region
 class(murders$region)
 length(levels(murders$region))
+
+
+# Creating a numeric vector
+price <- c(50, 75, 90, 100, 150)
+
+# Create a numeric vector to store the temperatures listed in the instructions into a vector named temp
+temp<- c("Beijing"=35, "Lagos"=88, "Paris"=42, "Rio de Janeiro"=84, "San Juan"=81,"Toronto"=30)
+temp
