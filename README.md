@@ -7,3 +7,5 @@ I have completed the following certificates. Here are the verified links:
 1. [Data Science - R basics](https://courses.edx.org/certificates/f04370af3c134c8db311844f5bf3fbf0)
 
 2. [Data Science - Productivity Tools](https://courses.edx.org/certificates/9f4099565d5840919aa7007a1714c970)
+
+3. [Data Science - Machine Learning](https://courses.edx.org/certificates/f843dadab26441ae9162d12381e889c4)
