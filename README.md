@@ -11,3 +11,5 @@ I have completed the following certificates. Here are the verified links:
 3. [Data Science - Machine Learning](https://courses.edx.org/certificates/f843dadab26441ae9162d12381e889c4)
 
 4. [Data Science - Linear Regression](https://courses.edx.org/certificates/444e5849a8084f77b31473db8f90faff)
+
+5. [Data Science - Visualization](https://courses.edx.org/certificates/3b575c70cefb42d2a2e20dcae77b1120)
